@@ -2,9 +2,9 @@
 #ifndef __VIPER__IOS_UTIL__MK__ANNOTATION__
 #define __VIPER__IOS_UTIL__MK__ANNOTATION__
 
-#include "Mitsoko/iOSutil/NS/Object.hpp"
-#include "Mitsoko/iOSutil/NS/MutableDictionary.hpp"
-#include "Mitsoko/iOSutil/CL/Location.hpp"
+#include "iOSutil/NS/Object.hpp"
+#include "iOSutil/NS/MutableDictionary.hpp"
+#include "iOSutil/CL/Location.hpp"
 
 #include <experimental/optional>
 

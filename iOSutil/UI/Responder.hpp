@@ -2,7 +2,7 @@
 #ifndef __VIPER__IOS_UTIL__UI__RESPONDER__
 #define __VIPER__IOS_UTIL__UI__RESPONDER__
 
-#include "Mitsoko/iOSutil/NS/Object.hpp"
+#include "iOSutil/NS/Object.hpp"
 
 namespace UI {
     struct Responder:public NS::Object{

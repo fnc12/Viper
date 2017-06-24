@@ -2,8 +2,8 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__PROVIDER__MEDIA_STORE__
 #define __VIPER__ANDROID_UTIL__ANDROID__PROVIDER__MEDIA_STORE__
 
-#include "Mitsoko/AndroidUtil/java/lang/String.hpp"
-#include "Mitsoko/AndroidUtil/android/net/Uri.hpp"
+#include "AndroidUtil/java/lang/String.hpp"
+#include "AndroidUtil/android/net/Uri.hpp"
 
 namespace android {
     

@@ -9,7 +9,7 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__WIDGET__ImageButton_hpp
 #define __VIPER__ANDROID_UTIL__ANDROID__WIDGET__ImageButton_hpp
 
-#include "Mitsoko/AndroidUtil/android/widget/ImageView.hpp"
+#include "AndroidUtil/android/widget/ImageView.hpp"
 
 namespace android{
     

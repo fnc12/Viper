@@ -2,7 +2,7 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__WIDGET__ADAPTER__
 #define __VIPER__ANDROID_UTIL__ANDROID__WIDGET__ADAPTER__
 
-#include "Mitsoko/AndroidUtil/java/lang/Object.hpp"
+#include "AndroidUtil/java/lang/Object.hpp"
 
 namespace android{
     

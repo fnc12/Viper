@@ -8,10 +8,10 @@
 
 #include "Response.hpp"
 
-#include "Mitsoko/AndroidUtil/java/lang/String.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/Class.hpp"
-#include "Mitsoko/AndroidUtil/java/util/List.hpp"
-#include "Mitsoko/AndroidUtil/java/util/Map.hpp"
+#include "AndroidUtil/java/lang/String.hpp"
+#include "AndroidUtil/java/lang/Class.hpp"
+#include "AndroidUtil/java/util/List.hpp"
+#include "AndroidUtil/java/util/Map.hpp"
 
 Mitsoko::Url::Response::Response(decltype(response) response_):response(response_),headers{*this}{}
 

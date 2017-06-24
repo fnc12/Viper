@@ -9,8 +9,8 @@
 #ifndef __android__webkit__WebView_hpp
 #define __android__webkit__WebView_hpp
 
-#include "Mitsoko/AndroidUtil/android/widget/AbsoluteLayout.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/String.hpp"
+#include "AndroidUtil/android/widget/AbsoluteLayout.hpp"
+#include "AndroidUtil/java/lang/String.hpp"
 
 namespace android {
     

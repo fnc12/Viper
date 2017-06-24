@@ -2,9 +2,9 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__SUPPORT__V4__APP__FRAGMENT__
 #define __VIPER__ANDROID_UTIL__ANDROID__SUPPORT__V4__APP__FRAGMENT__
 
-#include "Mitsoko/AndroidUtil/java/lang/Object.hpp"
-#include "Mitsoko/AndroidUtil/android/content/Intent.hpp"
-#include "Mitsoko/AndroidUtil/android/support/v4/app/FragmentActivity.hpp"
+#include "AndroidUtil/java/lang/Object.hpp"
+#include "AndroidUtil/android/content/Intent.hpp"
+#include "AndroidUtil/android/support/v4/app/FragmentActivity.hpp"
 
 namespace android{
     

@@ -2,7 +2,7 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__SUPPORT__V7__APP__APP_COMBAT_ACTIVITY__
 #define __VIPER__ANDROID_UTIL__ANDROID__SUPPORT__V7__APP__APP_COMBAT_ACTIVITY__
 
-#include "Mitsoko/AndroidUtil/android/support/v4/app/FragmentActivity.hpp"
+#include "AndroidUtil/android/support/v4/app/FragmentActivity.hpp"
 #include "ActionBar.hpp"
 
 namespace android{

@@ -3,7 +3,7 @@
 #define __VIPER__IOS_UTIL__NS__NOTIFICATION_CENTER__
 
 #include "Object.hpp"
-#include "Mitsoko/Disposable.hpp"
+#include "Disposable.hpp"
 #include "String.hpp"
 
 #include <functional>

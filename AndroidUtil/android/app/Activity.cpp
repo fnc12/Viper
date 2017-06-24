@@ -7,7 +7,7 @@
 //
 
 #include "Activity.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/String.hpp"
+#include "AndroidUtil/java/lang/String.hpp"
 
 #ifdef __ANDROID__
 

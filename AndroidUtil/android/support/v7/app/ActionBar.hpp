@@ -2,8 +2,8 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__SUPPORT__V7__APP__ACTION_BAR__
 #define __VIPER__ANDROID_UTIL__ANDROID__SUPPORT__V7__APP__ACTION_BAR__
 
-#include "Mitsoko/AndroidUtil/java/lang/Object.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/String.hpp"
+#include "AndroidUtil/java/lang/Object.hpp"
+#include "AndroidUtil/java/lang/String.hpp"
 
 namespace android{
     

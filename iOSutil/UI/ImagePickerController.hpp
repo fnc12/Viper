@@ -3,8 +3,8 @@
 #define __VIPER__IOS_UTIL__UI__IMAGE_PICKER_CONTROLLER__
 
 #include "NavigationController.hpp"
-#include "Mitsoko/iOSutil/NS/Array.hpp"
-#include "Mitsoko/iOSutil/NS/Dictionary.hpp"
+#include "iOSutil/NS/Array.hpp"
+#include "iOSutil/NS/Dictionary.hpp"
 
 #include <map>
 #include <functional>

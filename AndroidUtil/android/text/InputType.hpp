@@ -2,8 +2,8 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__TEXT__INPUT_TYPE__
 #define __VIPER__ANDROID_UTIL__ANDROID__TEXT__INPUT_TYPE__
 
-#include "Mitsoko/AndroidUtil/java/lang/Object.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/Class.hpp"
+#include "AndroidUtil/java/lang/Object.hpp"
+#include "AndroidUtil/java/lang/Class.hpp"
 
 namespace android{
     

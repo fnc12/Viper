@@ -2,7 +2,7 @@
 #ifndef __VIPER__IOS_UTIL__UI__NAVIGATION_ITEM__
 #define __VIPER__IOS_UTIL__UI__NAVIGATION_ITEM__
 
-#include "Mitsoko/iOSutil/NS/Object.hpp"
+#include "iOSutil/NS/Object.hpp"
 #include "BarButtonItem.hpp"
 
 namespace UI {

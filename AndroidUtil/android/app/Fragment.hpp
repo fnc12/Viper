@@ -2,7 +2,7 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__APP__FRAGMENT__
 #define __VIPER__ANDROID_UTIL__ANDROID__APP__FRAGMENT__
 
-#include "Mitsoko/AndroidUtil/java/lang/Object.hpp"
+#include "AndroidUtil/java/lang/Object.hpp"
 #include "Activity.hpp"
 
 namespace android{

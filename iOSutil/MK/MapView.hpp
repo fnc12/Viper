@@ -2,7 +2,7 @@
 #ifndef __VIPER__IOS_UTIL__MK__MAP_VIEW__
 #define __VIPER__IOS_UTIL__MK__MAP_VIEW__
 
-#include "Mitsoko/iOSutil/UI/View.hpp"
+#include "iOSutil/UI/View.hpp"
 #include "Geometry.hpp"
 #include "Annotation.hpp"
 

@@ -2,8 +2,8 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__GRAPHICS__BITMAP__
 #define __VIPER__ANDROID_UTIL__ANDROID__GRAPHICS__BITMAP__
 
-#include "Mitsoko/AndroidUtil/java/lang/Object.hpp"
-#include "Mitsoko/AndroidUtil/java/io/OutputStream.hpp"
+#include "AndroidUtil/java/lang/Object.hpp"
+#include "AndroidUtil/java/io/OutputStream.hpp"
 
 namespace android {
     

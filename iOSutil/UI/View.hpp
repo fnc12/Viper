@@ -3,8 +3,8 @@
 #define __VIPER__IOS_UTIL__UI__VIEW__
 
 #include "Responder.hpp"
-#include "Mitsoko/iOSutil/CG/AffineTransform.hpp"
-#include "Mitsoko/iOSutil/CG/Rect.hpp"
+#include "iOSutil/CG/AffineTransform.hpp"
+#include "iOSutil/CG/Rect.hpp"
 #include "Color.hpp"
 
 namespace UI {

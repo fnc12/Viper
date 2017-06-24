@@ -9,7 +9,7 @@
 #ifndef AbsoluteLayout_hpp
 #define AbsoluteLayout_hpp
 
-#include "Mitsoko/AndroidUtil/android/view/ViewGroup.hpp"
+#include "AndroidUtil/android/view/ViewGroup.hpp"
 
 namespace android{
     

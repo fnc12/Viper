@@ -4,7 +4,7 @@
 
 #include "JNI.hpp"
 #include "JavaRuntime.hpp"
-#include "Mitsoko/Util.hpp"
+#include "Util.hpp"
 
 #include <type_traits>
 #include <iostream>

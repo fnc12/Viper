@@ -3,7 +3,7 @@
 #define __VIPER__IOS_UTIL__UI__NAVIGATION_CONTROLLER__
 
 #include "ViewController.hpp"
-#include "Mitsoko/iOSutil/NS/Array.hpp"
+#include "iOSutil/NS/Array.hpp"
 #include "NavigationBar.hpp"
 
 namespace UI {

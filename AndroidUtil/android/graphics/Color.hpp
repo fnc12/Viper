@@ -2,7 +2,7 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__GRAPHICS__COLOR__
 #define __VIPER__ANDROID_UTIL__ANDROID__GRAPHICS__COLOR__
 
-#include "Mitsoko/AndroidUtil/java/lang/Class.hpp"
+#include "AndroidUtil/java/lang/Class.hpp"
 
 namespace android {
     

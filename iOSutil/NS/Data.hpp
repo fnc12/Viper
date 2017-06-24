@@ -3,8 +3,8 @@
 #define __VIPER__IOS_UTIL__NS__DATA__
 
 #include "Object.hpp"
-#include "Mitsoko/Util.hpp"
-#include "Mitsoko/iOSutil/CF/String.hpp"
+#include "Util.hpp"
+#include "iOSutil/CF/String.hpp"
 
 namespace NS {
     struct Data:public NS::Object{

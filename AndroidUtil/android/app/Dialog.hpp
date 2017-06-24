@@ -2,8 +2,8 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__APP__DIALOG__
 #define __VIPER__ANDROID_UTIL__ANDROID__APP__DIALOG__
 
-#include "Mitsoko/AndroidUtil/java/lang/Object.hpp"
-#include "Mitsoko/AndroidUtil/android/view/Window.hpp"
+#include "AndroidUtil/java/lang/Object.hpp"
+#include "AndroidUtil/android/view/Window.hpp"
 
 namespace android{
     

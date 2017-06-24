@@ -3,7 +3,7 @@
 #define __VIPER__IOS_UTIL__NS__STRING__
 
 #include "Object.hpp"
-#include "Mitsoko/Util.hpp"
+#include "Util.hpp"
 #include "Data.hpp"
 
 namespace NS {

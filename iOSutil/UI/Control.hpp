@@ -3,8 +3,8 @@
 #define __VIPER__IOS_UTIL__UI__CONTROL__
 
 #include "View.hpp"
-#include "Mitsoko/Util.hpp"
-#include "Mitsoko/Disposable.hpp"
+#include "Util.hpp"
+#include "Disposable.hpp"
 
 #include <functional>
 #include <map>

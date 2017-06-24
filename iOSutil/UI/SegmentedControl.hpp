@@ -3,7 +3,7 @@
 #define __VIPER__IOS_UTIL__UI__SEGMENTED_CONTROL__
 
 #include "Control.hpp"
-#include "Mitsoko/iOSutil/CF/String.hpp"
+#include "iOSutil/CF/String.hpp"
 #include "Color.hpp"
 
 namespace UI {

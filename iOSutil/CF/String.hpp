@@ -2,7 +2,7 @@
 #ifndef __VIPER__IOS_UTIL__CF__STRING__
 #define __VIPER__IOS_UTIL__CF__STRING__
 
-#include "Mitsoko/iOSutil/NS/Object.hpp"
+#include "iOSutil/NS/Object.hpp"
 
 #include <experimental/optional>
 

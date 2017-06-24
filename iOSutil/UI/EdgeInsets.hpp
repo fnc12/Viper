@@ -13,7 +13,7 @@
 #import <UIKit/UIGeometry.h>
 #endif
 
-#include "Mitsoko/iOSutil/CG/CG.hpp"
+#include "iOSutil/CG/CG.hpp"
 
 namespace UI {
     

@@ -5,7 +5,7 @@
 #ifdef __APPLE__
 #import <MapKit/MapKit.h>
 
-#include "Mitsoko/iOSutil/CL/Location.hpp"
+#include "iOSutil/CL/Location.hpp"
 
 namespace MK {
     namespace Coordinate{

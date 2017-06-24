@@ -7,7 +7,7 @@
 //
 
 #include "Context.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/Class.hpp"
+#include "AndroidUtil/java/lang/Class.hpp"
 
 #ifdef __ANDROID__
 

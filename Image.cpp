@@ -8,9 +8,9 @@
 
 #include "Image.hpp"
 
-#include "Mitsoko/AndroidUtil/java/io/FileOutputStream.hpp"
-#include "Mitsoko/AndroidUtil/java/io/File.hpp"
-#include "Mitsoko/AndroidUtil/java/io/BufferedOutputStream.hpp"
+#include "AndroidUtil/java/io/FileOutputStream.hpp"
+#include "AndroidUtil/java/io/File.hpp"
+#include "AndroidUtil/java/io/BufferedOutputStream.hpp"
 
 #include <iostream>
 

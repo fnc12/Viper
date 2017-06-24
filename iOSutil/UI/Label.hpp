@@ -3,10 +3,10 @@
 #define __VIPER__IOS_UTIL__UI__LABEL__
 
 #include "View.hpp"
-#include "Mitsoko/iOSutil/UI/Color.hpp"
-#include "Mitsoko/iOSutil/CF/String.hpp"
-#include "Mitsoko/Util.hpp"
-#include "Mitsoko/iOSutil/NS/TextAlignment.hpp"
+#include "iOSutil/UI/Color.hpp"
+#include "iOSutil/CF/String.hpp"
+#include "Util.hpp"
+#include "iOSutil/NS/TextAlignment.hpp"
 
 namespace UI {
     

@@ -3,7 +3,7 @@
 #define __VIPER__ANDROID_UTIL__JAVA__LANG__COLLECTION__
 
 //#include "Iterable.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/Iterable.hpp"
+#include "AndroidUtil/java/lang/Iterable.hpp"
 
 namespace java{
     

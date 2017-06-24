@@ -7,7 +7,7 @@
 //
 
 #include "Bitmap.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/Class.hpp"
+#include "AndroidUtil/java/lang/Class.hpp"
 
 using std::cout;
 using std::endl;

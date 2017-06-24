@@ -2,8 +2,8 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__SUPPORT__DESIGN__WIDGET__TAB_LAYOUT__
 #define __VIPER__ANDROID_UTIL__ANDROID__SUPPORT__DESIGN__WIDGET__TAB_LAYOUT__
 
-#include "Mitsoko/AndroidUtil/android/widget/HorizontalScrollView.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/CharSequence.hpp"
+#include "AndroidUtil/android/widget/HorizontalScrollView.hpp"
+#include "AndroidUtil/java/lang/CharSequence.hpp"
 
 namespace android {
     

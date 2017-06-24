@@ -2,7 +2,7 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__WIDGET__LINEAR_LAYOUT__
 #define __VIPER__ANDROID_UTIL__ANDROID__WIDGET__LINEAR_LAYOUT__
 
-#include "Mitsoko/AndroidUtil/android/view/ViewGroup.hpp"
+#include "AndroidUtil/android/view/ViewGroup.hpp"
 
 namespace android{
     

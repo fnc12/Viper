@@ -3,8 +3,8 @@
 #define __VIPER__ANDROID_UTIL__ANDROID__WIDGET__EDIT_TEXT__
 
 #include "TextView.hpp"
-#include "Mitsoko/AndroidUtil/android/content/Context.hpp"
-#include "Mitsoko/AndroidUtil/android/text/Editable.hpp"
+#include "AndroidUtil/android/content/Context.hpp"
+#include "AndroidUtil/android/text/Editable.hpp"
 
 namespace android{
     
