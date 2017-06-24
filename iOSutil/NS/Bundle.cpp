@@ -7,7 +7,7 @@
 //
 
 #include "Bundle.hpp"
-#include "Mitsoko/iOSutil/CF/String.hpp"
+#include "iOSutil/CF/String.hpp"
 
 #ifdef __APPLE__
 

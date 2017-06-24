@@ -2,7 +2,7 @@
 #ifndef __VIPER__IOS_UTIL_UI__TEXT_INPUT_TRAITS__
 #define __VIPER__IOS_UTIL_UI__TEXT_INPUT_TRAITS__
 
-#include "Mitsoko/iOSutil/NS/Object.hpp"
+#include "iOSutil/NS/Object.hpp"
 
 namespace UI {
     

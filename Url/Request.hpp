@@ -10,15 +10,15 @@
 #define VIPER__URL_REQUEST
 
 #ifdef __APPLE__
-#include "Mitsoko/iOSutil/NS/MutableURLRequest.hpp"
-#include "Mitsoko/iOSutil/NS/URLConnection.hpp"
+#include "iOSutil/NS/MutableURLRequest.hpp"
+#include "iOSutil/NS/URLConnection.hpp"
 #else
-#include "Mitsoko/AndroidUtil/java/lang/Object.hpp"
+#include "AndroidUtil/java/lang/Object.hpp"
 #endif  //__APPLE__
 
 #include "Response.hpp"
 #include "Error.hpp"
-#include "Mitsoko/Image.hpp"
+#include "Image.hpp"
 
 #include <vector>
 #include <map>

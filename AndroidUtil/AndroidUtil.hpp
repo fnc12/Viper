@@ -2,7 +2,7 @@
 #ifndef ANDROID_UTIL_H
 #define ANDROID_UTIL_H
 
-#include "Mitsoko/Util.hpp"
+#include "Util.hpp"
 
 #include "java/lang/Array.hpp"
 #include "java/lang/CharSequence.hpp"

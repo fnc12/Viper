@@ -9,7 +9,7 @@
 #ifndef Gravity_hpp
 #define Gravity_hpp
 
-#include "Mitsoko/AndroidUtil/java/lang/String.hpp"
+#include "AndroidUtil/java/lang/String.hpp"
 
 namespace android{
     

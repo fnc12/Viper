@@ -2,9 +2,9 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__GRAPHICS__BITMAP_FACTORY__
 #define __VIPER__ANDROID_UTIL__ANDROID__GRAPHICS__BITMAP_FACTORY__
 
-#include "Mitsoko/AndroidUtil/java/lang/String.hpp"
+#include "AndroidUtil/java/lang/String.hpp"
 #include "Bitmap.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/Array.hpp"
+#include "AndroidUtil/java/lang/Array.hpp"
 
 namespace android {
     

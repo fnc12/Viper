@@ -7,7 +7,7 @@
 //
 
 #include "Error.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/String.hpp"
+#include "AndroidUtil/java/lang/String.hpp"
 
 Mitsoko::Url::Error::Error(decltype(error) error_):error(error_){}
 

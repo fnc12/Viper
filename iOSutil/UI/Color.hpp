@@ -2,8 +2,8 @@
 #ifndef __VIPER__IOS_UTIL__UI__COLOR__
 #define __VIPER__IOS_UTIL__UI__COLOR__
 
-#include "Mitsoko/iOSutil/NS/Object.hpp"
-#include "Mitsoko/iOSutil/CG/CG.hpp"
+#include "iOSutil/NS/Object.hpp"
+#include "iOSutil/CG/CG.hpp"
 
 namespace UI {
     

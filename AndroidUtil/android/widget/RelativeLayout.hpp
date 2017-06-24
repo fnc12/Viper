@@ -9,8 +9,8 @@
 #ifndef RelativeLayout_hpp
 #define RelativeLayout_hpp
 
-#include "Mitsoko/AndroidUtil/android/view/ViewGroup.hpp"
-#include "Mitsoko/AndroidUtil/android/content/Context.hpp"
+#include "AndroidUtil/android/view/ViewGroup.hpp"
+#include "AndroidUtil/android/content/Context.hpp"
 
 namespace android{
     

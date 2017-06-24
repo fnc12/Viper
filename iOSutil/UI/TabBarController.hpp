@@ -3,7 +3,7 @@
 #define __VIPER__IOS_UTIL__UI__TAB_BAR_CONTROLLER__
 
 #include "NavigationController.hpp"
-#include "Mitsoko/iOSutil/NS/Array.hpp"
+#include "iOSutil/NS/Array.hpp"
 
 namespace UI{
     

@@ -12,9 +12,9 @@
 #include <string>
 
 #ifdef __APPLE__
-#include "Mitsoko/iOSutil/NS/HTTPURLResponse.hpp"
+#include "iOSutil/NS/HTTPURLResponse.hpp"
 #else
-#include "Mitsoko/AndroidUtil/java/lang/Object.hpp"
+#include "AndroidUtil/java/lang/Object.hpp"
 #endif  //__APPLE__
 
 namespace Mitsoko {

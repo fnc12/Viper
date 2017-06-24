@@ -3,13 +3,13 @@
 #define __VIPER__IOS_UTIL__UI__TEXTVIEW__
 
 #include "ScrollView.hpp"
-#include "Mitsoko/Util.hpp"
-#include "Mitsoko/iOSutil/CF/String.hpp"
-#include "Mitsoko/iOSutil/NS/Range.hpp"
-#include "Mitsoko/iOSutil/NS/String.hpp"
-#include "Mitsoko/iOSutil/NS/TextAttachment.hpp"
-#include "Mitsoko/iOSutil/NS/URL.hpp"
-#include "Mitsoko/Disposable.hpp"
+#include "Util.hpp"
+#include "iOSutil/CF/String.hpp"
+#include "iOSutil/NS/Range.hpp"
+#include "iOSutil/NS/String.hpp"
+#include "iOSutil/NS/TextAttachment.hpp"
+#include "iOSutil/NS/URL.hpp"
+#include "Disposable.hpp"
 
 #include <map>
 #include <vector>

@@ -2,7 +2,7 @@
 #ifndef __VIPER_APPLE_MC_VIEW_CONTROLLER_H
 #define __VIPER_APPLE_MC_VIEW_CONTROLLER_H
 
-#include "Mitsoko/iOSutil/UI/NavigationController.hpp"
+#include "iOSutil/UI/NavigationController.hpp"
 
 #include <map>
 #include <ostream>

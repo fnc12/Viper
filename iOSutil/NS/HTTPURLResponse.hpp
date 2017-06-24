@@ -11,7 +11,7 @@
 
 #include "URLResponse.hpp"
 #include "String.hpp"
-#include "Mitsoko/iOSutil/NS/Dictionary.hpp"
+#include "iOSutil/NS/Dictionary.hpp"
 
 namespace NS {
     

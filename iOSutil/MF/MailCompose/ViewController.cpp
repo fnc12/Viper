@@ -7,7 +7,7 @@
 //
 
 #include "ViewController.hpp"
-#include "Mitsoko/iOSutil/NS/MutableArray.hpp"
+#include "iOSutil/NS/MutableArray.hpp"
 
 #ifdef __APPLE__
 

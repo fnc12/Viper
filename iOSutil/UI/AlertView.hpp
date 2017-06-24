@@ -3,8 +3,8 @@
 #define __VIPER__IOS_UTIL__UI__ALERT_VIEW__
 
 #include "View.hpp"
-#include "Mitsoko/iOSutil/CF/String.hpp"
-#include "Mitsoko/iOSutil/NS/String.hpp"
+#include "iOSutil/CF/String.hpp"
+#include "iOSutil/NS/String.hpp"
 #include "TextField.hpp"
 
 #include <experimental/optional>

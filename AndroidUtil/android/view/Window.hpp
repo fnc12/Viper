@@ -2,7 +2,7 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__VIEW__WINDOW__
 #define __VIPER__ANDROID_UTIL__ANDROID__VIEW__WINDOW__
 
-#include "Mitsoko/AndroidUtil/java/lang/Object.hpp"
+#include "AndroidUtil/java/lang/Object.hpp"
 
 namespace android{
     

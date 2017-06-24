@@ -2,7 +2,7 @@
 #ifndef __VIPER__ANDROID_UTIL__JAVA__IO__FILE__
 #define __VIPER__ANDROID_UTIL__JAVA__IO__FILE__
 
-#include "Mitsoko/AndroidUtil/java/lang/String.hpp"
+#include "AndroidUtil/java/lang/String.hpp"
 
 namespace java {
     

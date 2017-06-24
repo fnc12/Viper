@@ -7,7 +7,7 @@
 //
 
 #include "ImageCache.hpp"
-#include "Mitsoko/Url/Request.hpp"
+#include "Url/Request.hpp"
 
 #include <iostream>
 

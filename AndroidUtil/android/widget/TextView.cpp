@@ -7,7 +7,7 @@
 //
 
 #include "TextView.hpp"
-#include "Mitsoko/AndroidUtil/android/text/TextWatcher.hpp"
+#include "AndroidUtil/android/text/TextWatcher.hpp"
 
 #ifdef __ANDROID__
 

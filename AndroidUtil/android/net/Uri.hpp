@@ -2,7 +2,7 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__NET__URI__
 #define __VIPER__ANDROID_UTIL__ANDROID__NET__URI__
 
-#include "Mitsoko/AndroidUtil/java/lang/String.hpp"
+#include "AndroidUtil/java/lang/String.hpp"
 
 namespace android {
     

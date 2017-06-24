@@ -2,7 +2,7 @@
 #ifndef __VIPER__ANDROID_UTIL__JAVA__UTIL__MAP__
 #define __VIPER__ANDROID_UTIL__JAVA__UTIL__MAP__
 
-#include "Mitsoko/AndroidUtil/java/lang/Object.hpp"
+#include "AndroidUtil/java/lang/Object.hpp"
 
 #include <type_traits>
 

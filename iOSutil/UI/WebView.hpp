@@ -9,8 +9,8 @@
 #ifndef WebView_hpp
 #define WebView_hpp
 
-#include "Mitsoko/iOSutil/UI/View.hpp"
-#include "Mitsoko/iOSutil/NS/URLRequest.hpp"
+#include "iOSutil/UI/View.hpp"
+#include "iOSutil/NS/URLRequest.hpp"
 
 namespace UI {
     

@@ -2,13 +2,13 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__WIDGET__TEXT_VIEW__
 #define __VIPER__ANDROID_UTIL__ANDROID__WIDGET__TEXT_VIEW__
 
-#include "Mitsoko/AndroidUtil/android/view/View.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/String.hpp"
-#include "Mitsoko/AndroidUtil/android/graphics/Color.hpp"
-#include "Mitsoko/AndroidUtil/android/text/TextWatcher.hpp"
-#include "Mitsoko/AndroidUtil/android/text/Editable.hpp"
-#include "Mitsoko/AndroidUtil/android/content/Context.hpp"
-#include "Mitsoko/Disposable.hpp"
+#include "AndroidUtil/android/view/View.hpp"
+#include "AndroidUtil/java/lang/String.hpp"
+#include "AndroidUtil/android/graphics/Color.hpp"
+#include "AndroidUtil/android/text/TextWatcher.hpp"
+#include "AndroidUtil/android/text/Editable.hpp"
+#include "AndroidUtil/android/content/Context.hpp"
+#include "Disposable.hpp"
 
 #include <functional>
 #include <map>

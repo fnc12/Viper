@@ -2,8 +2,8 @@
 #ifndef __VIPER__ANDROID_UTIL__JAVA__UTIL__LOCALE__
 #define __VIPER__ANDROID_UTIL__JAVA__UTIL__LOCALE__
 
-#include "Mitsoko/AndroidUtil/java/lang/Object.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/String.hpp"
+#include "AndroidUtil/java/lang/Object.hpp"
+#include "AndroidUtil/java/lang/String.hpp"
 
 namespace java{
     

@@ -10,9 +10,9 @@
 #define VIPER__URL__ERROR
 
 #ifdef __APPLE__
-#include "Mitsoko/iOSutil/NS/Error.hpp"
+#include "iOSutil/NS/Error.hpp"
 #else
-#include "Mitsoko/AndroidUtil/java/lang/Object.hpp"
+#include "AndroidUtil/java/lang/Object.hpp"
 #endif  //__APPLE__
 
 namespace Mitsoko {

@@ -2,8 +2,8 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__OS__HANDLER__
 #define __VIPER__ANDROID_UTIL__ANDROID__OS__HANDLER__
 
-#include "Mitsoko/AndroidUtil/java/lang/Object.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/Runnable.hpp"
+#include "AndroidUtil/java/lang/Object.hpp"
+#include "AndroidUtil/java/lang/Runnable.hpp"
 
 namespace android{
     

@@ -7,7 +7,7 @@
 //
 
 #include "Object.hpp"
-#include "Mitsoko/iOSutil/NS/String.hpp"
+#include "iOSutil/NS/String.hpp"
 
 #ifdef __APPLE__
 

@@ -9,7 +9,7 @@
 #ifndef __VIPER__ANDROUD_UTIL__ANDROID__TEXT__NO_COPY_SPAN__
 #define __VIPER__ANDROUD_UTIL__ANDROID__TEXT__NO_COPY_SPAN__
 
-#include "Mitsoko/AndroidUtil/java/lang/Object.hpp"
+#include "AndroidUtil/java/lang/Object.hpp"
 
 namespace android {
     

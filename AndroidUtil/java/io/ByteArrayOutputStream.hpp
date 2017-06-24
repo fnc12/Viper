@@ -10,7 +10,7 @@
 #define ByteArrayOutputStream_hpp
 
 #include "OutputStream.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/Array.hpp"
+#include "AndroidUtil/java/lang/Array.hpp"
 
 namespace java {
     

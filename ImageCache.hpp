@@ -10,7 +10,7 @@
 
 #include "sha256.hpp"
 #include "Dispatch.hpp"
-#include "Mitsoko/Image.hpp"
+#include "Image.hpp"
 
 namespace Mitsoko {
     

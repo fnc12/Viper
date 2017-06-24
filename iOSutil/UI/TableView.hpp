@@ -3,11 +3,11 @@
 #define __VIPER__IOS_UTIL__UI__TABLE_VIEW__
 
 #include "ScrollView.hpp"
-#include "Mitsoko/TableListAdapter.hpp"
+#include "TableListAdapter.hpp"
 #include "ImageView.hpp"
 #include "Label.hpp"
-#include "Mitsoko/iOSutil/NS/IndexSet.hpp"
-#include "Mitsoko/iOSutil/UI/EdgeInsets.hpp"
+#include "iOSutil/NS/IndexSet.hpp"
+#include "iOSutil/UI/EdgeInsets.hpp"
 
 namespace UI {
     

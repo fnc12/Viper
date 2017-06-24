@@ -9,8 +9,8 @@
 #ifndef __VIPER_VIPER__IMAGE
 #define __VIPER_VIPER__IMAGE
 
-#include "Mitsoko/iOSutil/UI/Image.hpp"
-#include "Mitsoko/AndroidUtil/android/graphics/Bitmap.hpp"
+#include "iOSutil/UI/Image.hpp"
+#include "AndroidUtil/android/graphics/Bitmap.hpp"
 
 namespace Mitsoko {
     

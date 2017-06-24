@@ -2,7 +2,7 @@
 #ifndef __VIPER__IOS_UTIL__UI__APPLICATION__
 #define __VIPER__IOS_UTIL__UI__APPLICATION__
 
-#include "Mitsoko/iOSutil/NS/URL.hpp"
+#include "iOSutil/NS/URL.hpp"
 
 namespace UI {
     

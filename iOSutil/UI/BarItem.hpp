@@ -2,10 +2,10 @@
 #ifndef __VIPER__IOS_UTIL__UI__BAR_ITEM__
 #define __VIPER__IOS_UTIL__UI__BAR_ITEM__
 
-#include "Mitsoko/iOSutil/NS/Object.hpp"
-#include "Mitsoko/iOSutil/NS/String.hpp"
+#include "iOSutil/NS/Object.hpp"
+#include "iOSutil/NS/String.hpp"
 #include "Image.hpp"
-#include "Mitsoko/iOSutil/CF/String.hpp"
+#include "iOSutil/CF/String.hpp"
 
 namespace UI {
     

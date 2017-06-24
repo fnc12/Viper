@@ -2,8 +2,8 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__WIDGET__IMAGE_VIEW__
 #define __VIPER__ANDROID_UTIL__ANDROID__WIDGET__IMAGE_VIEW__
 
-#include "Mitsoko/AndroidUtil/android/view/View.hpp"
-#include "Mitsoko/AndroidUtil/android/graphics/Bitmap.hpp"
+#include "AndroidUtil/android/view/View.hpp"
+#include "AndroidUtil/android/graphics/Bitmap.hpp"
 
 namespace android{
     

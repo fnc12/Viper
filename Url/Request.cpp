@@ -7,8 +7,8 @@
 //
 
 #include "Request.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/Class.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/String.hpp"
+#include "AndroidUtil/java/lang/Class.hpp"
+#include "AndroidUtil/java/lang/String.hpp"
 
 #include <iostream>
 #include <sys/time.h>

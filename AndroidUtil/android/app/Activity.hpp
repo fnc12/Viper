@@ -2,10 +2,10 @@
 #ifndef __VIPER__ANDROID_UTIL__ANDROID__APP__ACTIVITY__
 #define __VIPER__ANDROID_UTIL__ANDROID__APP__ACTIVITY__
 
-#include "Mitsoko/AndroidUtil/android/content/Context.hpp"
-#include "Mitsoko/AndroidUtil/android/content/Intent.hpp"
-#include "Mitsoko/AndroidUtil/android/view/View.hpp"
-#include "Mitsoko/AndroidUtil/java/lang/Runnable.hpp"
+#include "AndroidUtil/android/content/Context.hpp"
+#include "AndroidUtil/android/content/Intent.hpp"
+#include "AndroidUtil/android/view/View.hpp"
+#include "AndroidUtil/java/lang/Runnable.hpp"
 
 namespace android{
     
