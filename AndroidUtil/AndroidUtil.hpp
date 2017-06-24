@@ -99,7 +99,7 @@
 
 #include "android/webkit/WebView.hpp"
 
-#ifdef __ANDROID__
+#if defined(__ANDROID__) &&  !defined(DISABLE_ANDROID_LOG)
 
 #include <android/log.h>
 
