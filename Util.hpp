@@ -17,7 +17,7 @@
  */
 #define STATIC_VAR(type,name,value) static type& name(){ static type res(value); return res; }
 
-#ifdef __ANDROID__
+#if defined(__ANDROID__) &&  !defined(DISABLE_ANDROID_LOG)
 #include <android/log.h>
 
 #define  LOG_TAG    "MitsokoLog"
